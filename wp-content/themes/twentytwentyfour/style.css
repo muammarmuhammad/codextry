@@ -20,3 +20,8 @@ Tags: one-column, custom-colors, custom-menu, custom-logo, editor-style, feature
     top: 0;
     z-index: 1000;
 }
+
+/* Custom footer background */
+footer {
+    background-color: yellow;
+}
